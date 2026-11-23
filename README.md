@@ -1,0 +1,2 @@
+# Operational-certification-of-nonclassicality-in-arbitrary-quantum-states-from-few-copies-Codes
+Self-contained Jupyter notebook reproducing every number, table and figure of "Operational certification of nonclassicality in arbitrary quantum states from few copies": Wigner-moment hierarchies, finite-copy parity certificates, and benchmarks against tomography, homodyne, classical shadows and adaptive search.
